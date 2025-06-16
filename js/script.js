@@ -1,2 +1,1 @@
-let name = "Sina";
-console.log(name);
+console.log("Hi there is nothing there")
