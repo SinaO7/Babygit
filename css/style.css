@@ -1,5 +1,5 @@
 body {
-    background-image: url(/Web/Projects/iran-website/images/milad.jpg);
+    background-color: black;
 }
 .text{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -7,32 +7,39 @@ body {
     color: white;
     text-align: center;
 }
-.shape {
+footer {
     width: 50%;
     height: 50%;
-    background-color:transparent;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color:white;
+    background-color:gray;
     margin: auto;
-     margin-top: 16%;
+    margin-top: 23%;
+    border-radius: 100px 50px;
 }
+
 .social-links{
+
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a:link {
-    color: black;
+    color: white;
     background-color: transparent;
     text-decoration: none;
 }
 
 a:visited {
-    color: gray;
+    color: blanchedalmond;
     background-color: transparent;
     text-decoration: none;
 }
 
 a:hover {
-    color: blue;
+    color: gray;
     background-color: transparent;
     text-decoration: underline;
 }
